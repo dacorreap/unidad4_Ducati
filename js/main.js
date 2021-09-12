@@ -2,7 +2,7 @@ window.onload = init;
 
 function init() {
     var sound = new Howl({
-        src: ['../sonidos/Ducati.mp3'],
+        src: ['sonidos/Ducati.mp3'],
     });
 
 //referencias
